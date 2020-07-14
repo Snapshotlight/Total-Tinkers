@@ -13,7 +13,7 @@ item.greatbladeCore.name=宽刃剑核心
 item.explosiveCore.name=爆炸触媒
 
 item.greatblade.desc=大平衡者。沉重的宽刃剑牺牲了高攻击力，但取而代之的是，它可以造成百分比伤害，是挑战Boss的利器。慢，需要两只手挥动！
-item.battleaxe.desc=战斧是种重型攻击武器。作为狂暴者的武器，你可以造成大得多的伤害。\n它还可以砍倒小树木。
+item.battleaxe.desc=战斧是种重型攻击武器。狂暴时，你可以造成大得多的伤害。\n它还可以砍倒小树木。
 item.cutlass.desc=海盗短弯刀适合那些技巧高超、或是想用它来炫技的人的武器。暴击时可以短时间获得爆发速度。
 item.javelin.desc=远近兼备的武器，它是近战武器，却拥有毁灭性的攻击距离。
 item.tconstruct:crossbow.desc=十字弩是一个装填速度缓慢但威力强大的武器。它必须事先装填好，但之后就可以随时发射。\n使用匠魂的弩箭。
@@ -23,7 +23,7 @@ item.explosive_bow.desc=激活时可以催化材料进行反应的一种特殊�
 item.explosive_arrow.desc=用于从导轨上发射的一种特殊重型箭。用于装填爆炸弓。
 
 
-modifier.explosive_range.name=催化距离
+modifier.explosive_range.name=爆炸射程
 modifier.explosive_range.desc=由于催化效率大幅提高，射程也随之提高许多。
 
 stat.totaltinkers.explosive.radius.name=爆炸范围
@@ -39,9 +39,9 @@ tinkers.scimitar.bleed.hover=持续流血§c%1$,.2f秒
 tinkers.scimitar.bleed.duration=流血时间： §c%1$,.2f秒
 
 tooltip.fullGuard=也许你的村民朋友可以帮忙？
-tooltip.greatbladecore=可以在末地船中找到
+tooltip.greatbladecore=可以在末地船中找到e
 
-ffect.totaltinkers.berserker=狂暴
+effect.totaltinkers.berserker=狂暴
 effect.totaltinkers.hemorrhage=大出血
 
 death.attack.totaltinkers.hemorrhage=%1$s 失血休克致死。
